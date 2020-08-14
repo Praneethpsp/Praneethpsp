@@ -11,7 +11,7 @@
 
 [![](https://github.com/Praneethpsp/Praneethpsp/blob/master/facebook-square-brands%201.png)](https://www.facebook.com/urstrulypsp/)
 [![](https://github.com/Praneethpsp/Praneethpsp/blob/master/github-square-brands%201.png)](https://github.com/Praneethpsp/)
-[![](https://github.com/Praneethpsp/Praneethpsp/blob/master/linkedin-brands.png)](https://www.linkedin.com/in/praneethpasam10/)
+[![](https://github.com/Praneethpsp/Praneethpsp/blob/master/linkedin-brands%201.png)](https://www.linkedin.com/in/praneethpasam10/)
 [![](https://github.com/Praneethpsp/Praneethpsp/blob/master/instagram-square-brands%201.png)](https://www.instagram.com/urstrulypsp//)
 
 
