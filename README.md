@@ -9,7 +9,7 @@
 # CONTACT ME
 #### Feel free to communicate from any social media
 
-<a href="https://www.facebook.com/urstrulypsp/" target="_blank"><img src="facebook-square-brands 1.png" alt=""></a> 
+![](<a href="https://www.facebook.com/urstrulypsp/" target="_blank"><img src="facebook-square-brands 1.png" alt=""></a> )
 <a href="https://github.com/Praneethpsp/" target="_blank"><img src="github-square-brands 1.png" alt=""></a>
 <a href="https://www.linkedin.com/in/praneethpasam10/" target="_blank"><img src="linkedin-brands 1.png" alt=""></a>
 <a href="https://www.instagram.com/urstrulypsp/" target="_blank"><img src="instagram-square-brands 1.png" alt=""></a>
