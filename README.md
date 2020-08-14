@@ -9,10 +9,10 @@
 # CONTACT ME
 #### Feel free to communicate from any social media
 
-[![fb](https://github.com/Praneethpsp/Praneethpsp/blob/master/facebook-square-brands%201.png)](https://www.facebook.com/urstrulypsp/)
-<a href="https://github.com/Praneethpsp/" target="_blank"><img src="github-square-brands 1.png" alt=""></a>
-<a href="https://www.linkedin.com/in/praneethpasam10/" target="_blank"><img src="linkedin-brands 1.png" alt=""></a>
-<a href="https://www.instagram.com/urstrulypsp/" target="_blank"><img src="instagram-square-brands 1.png" alt=""></a>
+[![](https://github.com/Praneethpsp/Praneethpsp/blob/master/facebook-square-brands%201.png)](https://www.facebook.com/urstrulypsp/)
+[![](https://github.com/Praneethpsp/Praneethpsp/blob/master/github-square-brands%201.png)](https://github.com/Praneethpsp/)
+[![](https://github.com/Praneethpsp/Praneethpsp/blob/master/linkedin-brands.png)](https://www.linkedin.com/in/praneethpasam10/)
+[![](https://github.com/Praneethpsp/Praneethpsp/blob/master/instagram-square-brands%201.png)](https://www.instagram.com/urstrulypsp//)
 
 
 ### You can mail me
