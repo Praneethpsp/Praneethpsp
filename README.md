@@ -8,12 +8,12 @@
 
 # CONTACT ME
 #### Feel free to communicate from any social media
-<div>
+
 <a href="https://www.facebook.com/urstrulypsp/" target="_blank"><img src="facebook-square-brands 1.png" alt=""></a> 
 <a href="https://github.com/Praneethpsp/" target="_blank"><img src="github-square-brands 1.png" alt=""></a>
 <a href="https://www.linkedin.com/in/praneethpasam10/" target="_blank"><img src="linkedin-brands 1.png" alt=""></a>
 <a href="https://www.instagram.com/urstrulypsp/" target="_blank"><img src="instagram-square-brands 1.png" alt=""></a>
-</div>
+
 
 ### You can mail me
 [![Gmail Badge](https://img.shields.io/badge/-Praneeth%20Pasam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:praneethpsp10@gmail.com)](mailto:praneethpsp10@gmail.com)
