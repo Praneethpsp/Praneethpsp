@@ -19,9 +19,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Praneeth%20Pasam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:praneethpsp10@gmail.com)](mailto:praneethpsp10@gmail.com)
 
 ## MY GITHUB STATS
-
-
-<br>
 ![Praneeth's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethpsp&layout=compact)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=Praneethpsp&color=ffd700&style=plastic)
