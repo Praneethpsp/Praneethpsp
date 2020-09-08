@@ -20,8 +20,10 @@
 
 ## MY GITHUB STATS
 
-![Praneeth's Github Stats](https://github-readme-stats.vercel.app/api?username=Praneethpsp&show_icons=true&theme=tokyonight)<br>
+
 <br>
 ![Praneeth's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneethpsp&layout=compact)
+<br><br>
+![](https://komarev.com/ghpvc/?username=Praneethpsp&color=ffd700&style=plastic)
 
 # To know more about me check my website https://praneethpsp.github.io/Praneeth-s-Portfolio/
