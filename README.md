@@ -1,6 +1,6 @@
 # Hola! 👋, I'm P S Praneeth
 
-<img align="center" src="https://github.com/Praneethpsp/Praneethpsp/blob/master/headerpsp.png" alt=“image” width=“100%”/>
+<img align="center" src="https://github.com/Praneethpsp/Praneethpsp/blob/master/headerofpsp.png" alt=“image” width=“100%”/>
 
 # ABOUT ME
 
