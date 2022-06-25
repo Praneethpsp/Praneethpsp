@@ -1,10 +1,17 @@
 # Hola! 👋, I'm P S Praneeth
 
-<img align="center" src="https://github.com/Praneethpsp/Praneethpsp/blob/master/headerofpsp.png" alt=“image” width=“100%”/>
+## Software Engineer at ULTIMATE KRONOS GROUP (UKG)
+
+
+<img align="center" src="https://github.com/Praneethpsp/Praneethpsp/blob/master/headerofpsp.png" alt="image" width="100%"/>
 
 # ABOUT ME
 
-### I enjoy coding👨‍💻 in different languages as it is part of my life. Thinking out of the box🎁 and developing new technologies📟,projects📝 on upcoming domains are major aspects of my skillset😎. Being interactive and volunteering makes me complete🤗. Techie interested in Machine Learning,Artificial Intelligence🧐 and Designing 🖌.
+### I enjoy coding👨‍💻 in different languages as it is part of my day-to-day activities. Thinking out of the box🎁 and working on new technologies📟,projects📝 on upcoming domains are major aspects of my skillset😎. Being interactive and volunteering makes me complete🤗. Techie interested in Software Development, Web Development and Designing 🖌.
+
+<p align="center">
+  <img align="center" src="https://github.com/Praneethpsp/Praneethpsp/blob/master/developer.gif" alt="animated"/>
+</p>
 
 # CONTACT ME
 #### Feel free to communicate from any social media
